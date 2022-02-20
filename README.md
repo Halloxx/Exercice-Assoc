@@ -406,6 +406,53 @@
 
 
 
+*/ PARTIE PAGE 2 */
+
+<li><a href="file:///C:/Users/axelt/Desktop/STUDI/eval%20assoc.html#objectif"> Qui sommes nous ? </a></li>
+
+  <li><a href="file:///C:/Users/axelt/Desktop/STUDI/exercice%20assoc%20page2.html"> Commununication du moment </a></li>
+
+
+
+*/ PARTIE CSS */
+
+# exo-assoc-css
+.img1{
+    text-align: center;
+}
+
+.intervention{
+    text-align: center;
+}
+
+.solidarite {
+    text-align: center;
+    font-size: 40px;
+}
+
+.objectif{
+    text-align: center;
+}
+
+.histoire{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.maison{
+    font-size: 16px;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+.habit {
+    text-align: center;
+}
+
+.imgsrc{
+    text-align: center;
+}
 
 
 
